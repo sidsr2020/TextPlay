@@ -1,5 +1,5 @@
 # Use this deployed app on this link and for a better experience use the dark mode of this app;
-https://saujanya30.github.io/Textplay/
+https://siddhant.github.io/Textplay/
 
 
 
